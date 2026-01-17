@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-01-17",
+  "parameters": {
+    "FTD30_DEFAULT": {
+      "version": "002",
+      "file": "parameters/par_v002.myt",
+      "size": 4621,
+      "sha256": "48e5347952bcbe1139f1f9ead6668992bfe725506ec0a1772c439f278894c1fc",
+      "description": "Default FTD30 motor parameters"
+    }
+  },
+  "ftd30": {
+  }
+}
