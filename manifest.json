@@ -1,6 +1,22 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "lastUpdated": "2026-01-17",
+  "firmware": {
+    "DISPLAY": {
+      "version": "10.8.2",
+      "file": "DISPLAY/BallgunDISPLAY.bin",
+      "size": 1191568,
+      "sha256": "68e1db4c4e750568d34c925bfb520fdc060bc06addad9a2ed8263f559786e920",
+      "releaseNotes": "Battery protection, alarm reading improvements"
+    },
+    "DRIVER": {
+      "version": "10.8.2",
+      "file": "DRIVER/BallgunDRIVER.bin",
+      "size": 1184400,
+      "sha256": "a4668ebc1c0e3932f88f94929f96a9b8b25439e21f1bae35dc42b15b7384edd7",
+      "releaseNotes": "FTD30 alarm reading, ESP-NOW protocol updates"
+    }
+  },
   "parameters": {
     "FTD30_DEFAULT": {
       "version": "002",
