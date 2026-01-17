@@ -27,5 +27,12 @@
     }
   },
   "ftd30": {
+    "FTD30_DEFAULT": {
+      "version": "3.2.0",
+      "file": "ftd30/FTD30_REV3.2.0.mot",
+      "size": 377058,
+      "sha256": "6ef6257931e3322460fdbe9960c5cbe96f4706c298daca55a14401fb7f7a11b6",
+      "description": "FTD30 firmware REV 3.2.0"
+    }
   }
 }
